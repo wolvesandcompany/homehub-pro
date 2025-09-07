@@ -107,7 +107,7 @@ const About = () => {
                 <Button size="lg" className="btn-hero" asChild>
                   <Link to="/contact">Get Quote</Link>
                 </Button>
-                <Button size="lg" variant="outline" asChild>
+                <Button size="lg" variant="outline" className="border-primary text-primary hover:bg-primary hover:text-white" asChild>
                   <a href="tel:5551234357">Call (555) 123-HELP</a>
                 </Button>
               </div>
