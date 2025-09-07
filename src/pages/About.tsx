@@ -288,7 +288,7 @@ const About = () => {
             <Button size="lg" className="bg-white text-primary hover:bg-gray-100" asChild>
               <Link to="/contact">Get Free Quote</Link>
             </Button>
-            <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-primary" asChild>
+            <Button size="lg" variant="outline" className="border-white text-accent hover:bg-white hover:text-primary" asChild>
               <a href="tel:5551234357">Call (555) 123-HELP</a>
             </Button>
           </div>
